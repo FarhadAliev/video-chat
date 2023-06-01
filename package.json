@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "star": "node server.js"
+    "star": "node server.js",
+    "build" : "npm run build"
   },
   "keywords": [],
   "author": "",
